@@ -16,7 +16,7 @@ export default class App extends Component {
   }
 
   getPresidents(order = '') {
-    axios.get(`http://simonapi.azurewebsites.net/api/President/${order}`)
+    axios.get(`https://simonapi.azurewebsites.net/api/President/${order}`)
     .then(listOfPresidents => {
       this.setState({presidents: listOfPresidents.data})
     })
