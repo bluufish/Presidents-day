@@ -1,0 +1,12 @@
+C:\Users\Simon\source\repos\SimonAPI\bin\Release\netcoreapp2.0\SimonAPI.deps.json
+C:\Users\Simon\source\repos\SimonAPI\bin\Release\netcoreapp2.0\SimonAPI.runtimeconfig.json
+C:\Users\Simon\source\repos\SimonAPI\bin\Release\netcoreapp2.0\SimonAPI.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\SimonAPI\bin\Release\netcoreapp2.0\SimonAPI.dll
+C:\Users\Simon\source\repos\SimonAPI\bin\Release\netcoreapp2.0\SimonAPI.pdb
+C:\Users\Simon\source\repos\SimonAPI\obj\Release\netcoreapp2.0\SimonAPI.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\SimonAPI\obj\Release\netcoreapp2.0\SimonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\SimonAPI\obj\Release\netcoreapp2.0\SimonAPI.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\SimonAPI\obj\Release\netcoreapp2.0\SimonAPI.AssemblyInfo.cs
+C:\Users\Simon\source\repos\SimonAPI\obj\Release\netcoreapp2.0\SimonAPI.dll
+C:\Users\Simon\source\repos\SimonAPI\obj\Release\netcoreapp2.0\SimonAPI.pdb
+C:\Users\Simon\source\repos\SimonAPI\bin\Release\netcoreapp2.0\PresidentList.json

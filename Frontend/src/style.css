@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 8em;
+    color: rgb(14,56,91);
+    border-bottom: 20px solid crimson;
+}
+
+h2 {
+    font-size: 2em;
+}
